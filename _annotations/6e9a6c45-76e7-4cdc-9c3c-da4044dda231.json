@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00070-MANCHESTER-00023/canvas/1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Cathedral ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "EddieJamesIII",
+                "name": "EddieJamesIII"
+            },
+            "created": "2023-11-14T11:47:23.071Z",
+            "modified": "2023-11-14T11:47:26.599Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00070-MANCHESTER-00023",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00070-MANCHESTER-00023/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2924.51611328125,2093.264404296875,1137.56005859375,661.24169921875"
+        }
+    },
+    "id": "6e9a6c45-76e7-4cdc-9c3c-da4044dda231.json",
+    "motivation": "commenting"
+}
